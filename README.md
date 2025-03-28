@@ -1,6 +1,6 @@
 # Projeto IPlast - Sistema de Gerenciamento
 
-Este projeto foi regido por **Lucas Paiva**, desenvolvido para atender à demanda da indústria de plásticos **IPlast**, localizada na cidade de Pedreira. O sistema tem como objetivo realizar o gerenciamento de **produtos (estoque)**, **funcionários** e **clientes**. Atualmente, foi implementada apenas a **tela de cadastro**, sem funcionalidade.
+Este projeto foi regido por **Lucas Paiva**, desenvolvido para atender à demanda da indústria de plásticos **IPlast**, localizada na cidade de Pedreira. O sistema tem como objetivo realizar o gerenciamento de **produtos (estoque)**, **funcionários** e **clientes**. Atualmente, foi implementada apenas a **tela de cadastro**, sem linkagem com o backend.
 
 *Feito por **Laila Casadei Macêdo***
 
